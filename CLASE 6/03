@@ -1,0 +1,92 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMl40Dgc+hJM1sh3WsOcMt+",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/EvansRojas/Clase-Inteligencia-Artificial/blob/main/CLASE%206/03\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "OCoBTUlgUsP0"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# CLASE IA 6/03/25"
+      ],
+      "metadata": {
+        "id": "TiXFAIGEU1VX"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "\n",
+        "##SCIPY. STATS\n",
+        "\n",
+        "El módulo scipy. stats contiene herramientas estadísticas y probabilísticas descripciones de procesos aleatorios. Generadores de números aleatorios para diferentes procesos aleatorios se puede encontrar en numpy.\n",
+        "\n",
+        "##ZSCORE\n",
+        "\n",
+        "Es una medida estadística que nos dice qué tan lejos o cerca está un valor del promedio de un grupo de valores. Imagínatelo como el arte de medir la «normalidad» de algo, usando las desviaciones estándar como unidad de medida.\n",
+        "\n",
+        "\n",
+        "---\n",
+        "\n",
+        "\n",
+        "SI EL DATO ESTA DESVIADO 3 O MÁS VECES ES UN OUTLAYER.\n",
+        "\n",
+        "SIEMPRE QUE HAGAMOS UN INDEXE RESETEAR EL INDICE.\n",
+        "\n",
+        "\n",
+        "\n",
+        "---\n",
+        "\n",
+        "##¿Qué es clips de programación?\n",
+        "\n",
+        "CLIPS es un acrónimo de C Language Integrated Production System (Sistema de Producción Integrado en Lenguaje C). En la actualidad, entre los paradigmas de programación que soporta CLIPS se encuentran la Programación lógica, la Programación imperativa y la Programación Orientada a Objetos.\n",
+        "\n",
+        "|Reduccion de caracteristicas|\n",
+        "\n",
+        "\n",
+        "\n",
+        "https://diabetesunab.streamlit.app/\n",
+        "\n",
+        "Los features se pueden transformar en otros features\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "tuNkp53BU7al"
+      }
+    }
+  ]
+}
