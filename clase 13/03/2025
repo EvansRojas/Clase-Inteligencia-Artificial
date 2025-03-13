@@ -1,0 +1,99 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOM2Re/vYCwnYBz8E94HY8g",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/EvansRojas/Clase-Inteligencia-Artificial/blob/main/clase%2013/03/2025\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "jPsMPSvZZHYd"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# CLASE | Inteligencia Artificial | 13/03/2025\n",
+        "\n",
+        "##Preprosecamiento\n",
+        "\n",
+        "OneHotCode\n",
+        "\n",
+        "tandardScaler\n",
+        "\n",
+        "MinMaxScaler or MaxAbsScaler\n",
+        "\n",
+        "LabelEncoder\n",
+        "\n",
+        "-----------------------\n",
+        "##Pasos\n",
+        "\n",
+        "preprosecamiento\n",
+        "\n",
+        "1. Importar\n",
+        "\n",
+        "2. Declarar\n",
+        "\n",
+        "3. Entrenar y transformar\n",
+        "\n",
+        "    Fit_transform\n",
+        "\n",
+        "4. Persistencia (Guardar)\n",
+        "\n",
+        "    jbdump(...)\n",
+        "\n",
+        "---------------------------\n",
+        "establecer las metricas\n",
+        "# ML (Machine Learning)\n",
+        "\n",
+        "##Pasos\n",
+        "\n",
+        "1. Importar\n",
+        "\n",
+        "2. Declarar\n",
+        "\n",
+        "3. Entrenamos (Entrenamos con el 80%)\n",
+        "\n",
+        "4. Predecir (Predecimos con el 20% [Con los datos de prueba])\n",
+        "-------------------------\n",
+        "Antes de la persistencia establecemos las metricas\n",
+        "\n",
+        "Si no supera el 80% de las metricas es un modelo no funcional\n",
+        "\n",
+        "Pero si si lo supera si es funcional\n",
+        "\n",
+        "------------------------\n",
+        "5. Persistencia (Guardar)\n",
+        "\n",
+        "\n",
+        "Cuando hay datos continuos se usa gauss\n"
+      ],
+      "metadata": {
+        "id": "92hqGuYlYinf"
+      }
+    }
+  ]
+}
